@@ -142,7 +142,7 @@ aside span {
 @media (max-width: 768px) {
 
   :root {
-    font-size: 8px;
+    font-size: 14px;
   }
 
   body {
